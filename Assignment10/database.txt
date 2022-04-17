@@ -1,0 +1,7 @@
+film, Avatar, James Cameron, 2.42, https://youtu.be/Gyk95pI6mcE, 7, reae rezaee - ali saberi, science fiction, 2009
+film, Titanic, James Cameron, 3.14, https://youtu.be/ygpctE44rwA, 9, abas abasi - simin danaee, romance and disaster, 1997
+series, GAME OF THRONES, Tim Van Patten, 7.4, https://youtu.be/holzBghWTlY, 4, neda nedaee - maryam maryami, American fantasy drama, 2011
+series, THE WIRE, David Judah Simon, 7, https://youtu.be/DwXrfN_-GuE, 11, mina maryami - parvin abasi, drama, 1960
+clip, Tibet Training, Mr Bean Official, 2, https://youtu.be/7mT8El4mBVw, 3, saman samani - samane abani, funny, 2000
+documentary, The Act of Killing, Joshua Oppenheimer, 10, https://youtu.be/63sWa1wIUCk, 56, ahamad ahmadi - mahmud mahmudi, 2012
+documentary, The Queen of Versailles, Lauren Greenfield, 4.1, https://youtu.be/VR7r9bBRVi0, 48, navid milani - milad mohammadi, 2012
